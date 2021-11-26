@@ -1,0 +1,28 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/075ratee/pluginHost.git
+	ignore = dirty
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/075ratee/pluginInterface.git
+	ignore = dirty
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/075ratee/plugin1.git
+	ignore = dirty
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/075ratee/plugin2.git
+	ignore = dirty
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/075ratee/plugin3.git
+	ignore = dirty
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/075ratee/plugin4.git
+	ignore = dirty
+[submodule "plugin-075"]
+	path = plugin-075
+	url = https://github.com/075ratee/plugin-075.git
+	ignore = dirty
