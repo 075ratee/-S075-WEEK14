@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin3", "..\plugin3\Plugi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin4", "..\plugin4\Plugin4\Plugin4.csproj", "{904CD00C-4CDF-4913-A330-9F60A9EAAD41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "..\plugin-075\63030075\Plugins.csproj", "{BFE27CD7-201B-4548-91A1-7CF85BC863F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginRateeW", "..\plugin-075\63030075\PluginRateeW.csproj", "{ECFB1833-A0D8-45AB-8852-30B88FBF90A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,10 @@ Global
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BFE27CD7-201B-4548-91A1-7CF85BC863F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BFE27CD7-201B-4548-91A1-7CF85BC863F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BFE27CD7-201B-4548-91A1-7CF85BC863F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BFE27CD7-201B-4548-91A1-7CF85BC863F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFB1833-A0D8-45AB-8852-30B88FBF90A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFB1833-A0D8-45AB-8852-30B88FBF90A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFB1833-A0D8-45AB-8852-30B88FBF90A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFB1833-A0D8-45AB-8852-30B88FBF90A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
